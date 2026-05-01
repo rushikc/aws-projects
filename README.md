@@ -4,15 +4,8 @@ AWS mini-projects for teaching and reference.
 
 ## Projects
 
-- **[serverless-api](./serverless-api/)** — Serverless HTTP API (API Gateway REST + Lambda authorizer/read/write + DynamoDB) via Terraform.  
-**Tags:** `Terraform` `Lambda` `API Gateway` `DynamoDB`
-
-## Tags (quick filter)
-
-- `Terraform`: Infrastructure as Code with Terraform
-- `Lambda`: AWS Lambda-based projects
-- `API Gateway`: API Gateway (REST/HTTP) projects
-- `DynamoDB`: DynamoDB-backed projects
+- **[serverless-api](./serverless-api/README.md)** — Serverless HTTP API (API Gateway REST + Lambda authorizer/read/write + DynamoDB) via Terraform.  
+**Tags:** `AWS` `Terraform` `Lambda` `API Gateway` `DynamoDB` `Typescript`
 
 ## Conventions (for new projects)
 
