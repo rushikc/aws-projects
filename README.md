@@ -2,13 +2,6 @@
 
 Bunch of cloud mini-projects on aws, gcp & terraform for teaching and reference.
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="56" height="56" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="56" height="56" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/terraform/844FBA" alt="Terraform" width="56" height="56" />
-</p>
 
 ## Projects
 
